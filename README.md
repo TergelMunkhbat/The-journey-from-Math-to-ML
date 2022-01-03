@@ -5,3 +5,4 @@ This repository accompanies the YouTube series - [available here](https://bit.ly
 - [S1 - Episode 5 - Neural network & Gradient descent](https://github.com/TergelMunkhbat/The-journey-from-Math-to-ML/tree/main/S1E5%20NN%20%26%20Gradient%20descent)
 - [S1 - Episode 6 - The mysteries of weights & Derivatives](https://github.com/TergelMunkhbat/The-journey-from-Math-to-ML/tree/main/S1E6%20The%20mysteries%20of%20weights)
 - [S1 - Episode 7 - Word embedding](https://github.com/TergelMunkhbat/The-journey-from-Math-to-ML/tree/main/S1E7%20Word%20embedding)
+- [S1 - Episode 8 - Learning from surrounding words](https://github.com/TergelMunkhbat/The-journey-from-Math-to-ML/tree/main/S1E8%20Learning%20from%20surrounding%20words)
